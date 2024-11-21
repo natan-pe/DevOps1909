@@ -1,0 +1,7 @@
+awscli
+requests
+flask
+matplotlib
+#pandas
+#numpy
+selenium
