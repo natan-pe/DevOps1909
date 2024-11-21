@@ -8,3 +8,5 @@ my_file = open('names.txt', 'r')
 for name in my_file.readlines():
     print(f"Hello, {name}")
 my_file.close()
+print("natanTest01")
+
